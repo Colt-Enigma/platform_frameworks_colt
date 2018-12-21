@@ -1,6 +1,6 @@
-package aoscp.support.lottie;
+package pixeldust.support.lottie;
 
-import aoscp.support.lottie.utils.MeanCalculator;
+import pixeldust.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;
