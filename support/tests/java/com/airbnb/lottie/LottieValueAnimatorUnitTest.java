@@ -1,4 +1,4 @@
-package pixeldust.support.lottie;
+package colt.support.lottie;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -6,10 +6,10 @@ import android.graphics.Rect;
 import android.support.v4.util.LongSparseArray;
 import android.support.v4.util.SparseArrayCompat;
 
-import pixeldust.support.lottie.model.Font;
-import pixeldust.support.lottie.model.FontCharacter;
-import pixeldust.support.lottie.model.layer.Layer;
-import pixeldust.support.lottie.utils.LottieValueAnimator;
+import colt.support.lottie.model.Font;
+import colt.support.lottie.model.FontCharacter;
+import colt.support.lottie.model.layer.Layer;
+import colt.support.lottie.utils.LottieValueAnimator;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -15,7 +15,7 @@
 
 LOCAL_PATH:= $(call my-dir)
 
-# Disable frameworks pixeldust.for PDK builds instead
+# Disable frameworks colt.for PDK builds instead
 # use prebuilts/sdk/current/
 ifneq ($(TARGET_BUILD_PDK),true)
 # Don't include in unbundled build.

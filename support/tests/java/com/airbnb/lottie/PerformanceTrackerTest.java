@@ -1,4 +1,4 @@
-package pixeldust.support.lottie;
+package colt.support.lottie;
 
 import android.support.v4.util.Pair;
 

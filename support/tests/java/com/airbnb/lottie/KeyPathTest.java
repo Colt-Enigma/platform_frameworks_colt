@@ -1,8 +1,8 @@
-package pixeldust.support.lottie;
+package colt.support.lottie;
 
 import android.util.JsonReader;
 
-import pixeldust.support.lottie.model.KeyPath;
+import colt.support.lottie.model.KeyPath;
 
 import org.junit.Before;
 import org.junit.Test;

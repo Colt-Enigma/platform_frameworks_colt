@@ -1,6 +1,6 @@
-package pixeldust.support.lottie;
+package colt.support.lottie;
 
-import pixeldust.support.lottie.utils.MeanCalculator;
+import colt.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;
